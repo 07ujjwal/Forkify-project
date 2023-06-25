@@ -1,0 +1,20 @@
+{
+  "name": "forkefy-1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ujjwal",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.2",
+    "parcel": "^2.9.2"
+  },
+  "dependencies": {
+    "fractional": "^1.0.0",
+    "stable": "^0.1.8"
+  }
+}
